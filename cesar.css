@@ -1,0 +1,10 @@
+.row{
+    background-color:whitesmoke;
+}
+.row div{
+    background-color: rgba(234, 231, 227, 0.852);
+}
+.row h3{
+    background-color: grey;
+}
+#a{color: black;}
